@@ -29,4 +29,5 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
-|00|Lukas Kugler   | 12     | Lukas-LBS
+|02|Jeanne Enriquez  | A11     | jeanneenriquez |https://github.com/jeanneenriquez/Individual_project.git![image]
+    | xx    |2021-08-28 |
